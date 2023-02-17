@@ -1,2 +1,2 @@
-print("My first Git program")
-print("Hello World")
+print("My first Git program!!!")
+# 2023 (c) Me
